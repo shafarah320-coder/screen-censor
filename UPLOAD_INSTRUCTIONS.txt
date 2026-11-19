@@ -1,0 +1,4 @@
+Upload all files in this folder to a new GitHub repository.
+IMPORTANT: Include the hidden .github/workflows/build-windows.yml file.
+Then open GitHub > repository > Actions > Build Windows Installer > Run workflow.
+Download the ScreenCensor-Windows-Installer artifact when the workflow succeeds.

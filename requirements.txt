@@ -1,0 +1,4 @@
+nudenet>=3.4
+opencv-python
+numpy
+mss
